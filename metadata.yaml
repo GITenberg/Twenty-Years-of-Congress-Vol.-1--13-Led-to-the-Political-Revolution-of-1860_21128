@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9058
     wikipedia: http://en.wikipedia.org/wiki/James_G._Blaine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21128#Twenty-Years-of-Congress-Vol.-1--13-Led-to-the-Political-Revolution-of-1860
 gutenberg_issued: '2007-04-17'
 gutenberg_type: Text
 identifiers:
